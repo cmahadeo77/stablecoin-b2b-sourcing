@@ -1,0 +1,17 @@
+{
+  "buyer": {
+    "label": "Arikina (Buyer)",
+    "public_key": "G...",
+    "secret_key": "S..."
+  },
+  "supplier": {
+    "label": "Overseas Supplier",
+    "public_key": "G...",
+    "secret_key": "S..."
+  },
+  "oracle": {
+    "label": "Delivery Oracle",
+    "public_key": "G...",
+    "secret_key": "S..."
+  }
+}

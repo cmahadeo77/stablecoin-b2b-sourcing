@@ -3,6 +3,7 @@
 .env.local
 *.pem
 *.key
+wallets.json                   # contains private keys — use wallets.example.json as template
 
 # Python
 __pycache__/
