@@ -4,6 +4,7 @@
 *.pem
 *.key
 wallets.json                   # contains private keys — use wallets.example.json as template
+circle_config.json             # contains Circle API key — use circle_config.example.json as template
 
 # Python
 __pycache__/

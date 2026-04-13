@@ -1,0 +1,10 @@
+{
+  "api_key": "PASTE_YOUR_CIRCLE_SANDBOX_API_KEY_HERE",
+  "notes": [
+    "1. Go to https://app.circle.com",
+    "2. Switch to SANDBOX environment (top-right toggle)",
+    "3. Developer → API Keys → Create API Key",
+    "4. Scope: Business Account (all permissions)",
+    "5. Paste the key above and save as circle_config.json"
+  ]
+}
